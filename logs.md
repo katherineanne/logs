@@ -1,5 +1,5 @@
 # Katherine Anne (DHUM 450)
-Can I add changes?
+
 
 ##Log 2 Thought Piece   
 
