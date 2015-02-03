@@ -1,7 +1,15 @@
 # Katherine Anne (DHUM 450)
 
+## Log 3, 3 February, Revised Thought Piece
 
-## Thought Piece Review
+My goal for this project would be to demonstrate how Thomas King's narrative in *The Inconvenient Indian* is actually an intentional procedure meant to trick white readers into confronting their own racial prejudices. King often begins chapters throughout the book with a claim that appeals to the historical Frontier Myth (Furniss) and it's contemporary version, the White-normative concept of civility (Coleman). After making this claim, the rest of the chapter goes on to list carefully documented events that undermine King's initial statement. If the reader agrees with King's initial premise, they will later be implicated in his postcolonial critique.
+
+I would like to argue that King's method of narration is designed to entrap readers by turning his process into an interactive game.  I like the way many of Pedercini's games make an obvious argument, but I'm not sure if that would actually demonstrate the procedure King uses in his narrative. King produces his procedure in a print media, which allows him to withold his postcolonial critique from first time readers until they read further into the book. I would like to reproduce this ambush of information within a game. It might be possible to create something like Nicky Case's "coming out simulator" or Merritt Kopas "Dee's Big Night", but if I wanted to provide users with choices to select, I would probably have to move beyond the text, which is something I would like to avoid. 
+
+Since Galloway argues that play is already "a symbolic action for larger issues in culture" (17). I might look into how difficult it would be to mod or hack an already existing game, like "Oregon Trail", that functions within the Frontier Myth King is challenging. It could allow me to surprise users who initially engage with the game out of a sense of nostalgia. My goal would be to recreate King's process of gently leading readers into recognizing the problematic way history has been told, and how it continues to affect the present.
+
+
+## Thought Piece Review, In Class, 27 January
 ###Adam
 Arguement: Recovering the active nature of passive subjects by troubling the centralization of the human subject.  
 Form: A game that acts as an extension of the critical argument  
@@ -39,18 +47,17 @@ Form: Use scaler to compare existing illustrations and showcase new ones and dem
   
 2) **Engaging with irony in illustration.**  
    **We liked her idea of using scaler to compare alternative illustrations for Wilde's short stories. We thought it would be interesting if she could allow viewers to contribute their own images and voices (if she included sound).** **Ashley suggested that Darielle could alter every aspect of presentation in order to demonstrate the effect of design, topography, etc. on the project.**
-** She could give readers options of how they want to read the text (dark, light, sweet, violent) by using different themes. This could show how the same text read in different ways makes a completely different reading. Demonstrates second narrative**
-** It could be a really interesting contribution to the study of Wilde, since there are so few contemporary versions of Wilde's fairy tales**     
+**She could give readers options of how they want to read the text (dark, light, sweet, violent) by using different themes. This could show how the same text read in different ways makes a completely different reading. Demonstrates second narrative. It could be a really interesting contribution to the study of Wilde, since there are so few contemporary versions of Wilde's fairy tales**     
 
 - How could the research question and scope be refined?
 How feasible is the argument given the time constraints at hand? How could the feasibility be increased? 
-** Danielle's project is more feasible because she isn't required to write an essay alongside. She also may just focus on the nightengale story, which keeps her focus smaller**
+**Danielle's project is more feasible because she isn't required to write an essay alongside. She also may just focus on the nightengale story, which keeps her focus smaller**
 - What are some of the technical challenges? Some of the research challenges? How significant are they? 
-** She wants to use illustrator for her own illustrations. She may be limited in this aspect depending on how much she can produce**
+**She wants to use illustrator for her own illustrations. She may be limited in this aspect depending on how much she can produce**
 - How tight is the relationship between the research question and the choice of new media / computation? How could that relationship be tightened? Does the type of argument selected seem like a good fit? 
-** This project could demonstrate how context changes readings. It could be really effective to provide new information and interpretations.**
+**This project could demonstrate how context changes readings. It could be really effective to provide new information and interpretations.**
 - What, if anything, is missing from the recipe? What tools, research, data sources, and projects might be added? What other arguments or publications come to mind? (Use the internet to find some answers here?) 
-**Scaler and Illustrator should mostly cover what she needs to do**** Is there any useful scaler alternatives? She couldn't find anything else that would let her annotate images and videos.** 
+**Scaler and Illustrator should mostly cover what she needs to do. Is there any useful scaler alternatives? She couldn't find anything else that would let her annotate images and videos.** 
 - What other comments or suggestions do you have?
 
 
@@ -60,7 +67,7 @@ How feasible is the argument given the time constraints at hand? How could the f
 Argument: Can John Wilmot's poetry be both religious and a libertine?
 Form: Originally Ashley was planning to create an interactive essay using Scaler, CSS, or Active Markdown, but we thought her focus (one poem) could be really conducive for creating a deformance piece.  
 
-- What's persuasive about the thought piece? To whom is it relevant? ** Ashley's argument that certain parts of "To the Postboy" echoe religious poetry is quite convincing. Yet, Rochester's libertine influences are equally apparent in the same poem.**
+- What's persuasive about the thought piece? To whom is it relevant? **Ashley's argument that certain parts of "To the Postboy" echoe religious poetry is quite convincing. Yet, Rochester's libertine influences are equally apparent in the same poem.**
 - How could the research question and scope be refined?
 How feasible is the argument given the time constraints at hand? How could the feasibility be increased? **She could provide an interesting critique by deforming the form into purely religious or purely libertine by striping away any contradictory statements. This could be quite feasible because most of this work could be done offline. However, a computer interface of some sort would be necessary to present the two deformative poems without any heirarchy. For example, Ashley talked about making a home page for her deformative poems that would allow the reader to choose between "heaven" or "hell", giving the reader control over which poetic version they want to prioritize.**
 - What are some of the technical challenges? Some of the research challenges? How significant are they? 
@@ -69,7 +76,7 @@ How tight is the relationship between the research question and the choice of ne
 - What, if anything, is missing from the recipe? What tools, research, data sources, and projects might be added? What other arguments or publications come to mind? (Use the internet to find some answers here?) 
 **Could she use a program like Wget to pull up examples of religious vocabulary from strictly religious poetry that also occurs in his poem?**
 - What other comments or suggestions do you have?
-** She focused a lot on small changes, like "I have" vs. "I've" in her original essay. Perhaps it might be worth switching these phrases each time they occur to see what the original choice demonstrates. She could also provide small biographical details about Rochester that could lead the reader to believe the author was religious, or libertine, depending on which "door" they selected (heaven or hell).**
+**She focused a lot on small changes, like "I have" vs. "I've" in her original essay. Perhaps it might be worth switching these phrases each time they occur to see what the original choice demonstrates. She could also provide small biographical details about Rochester that could lead the reader to believe the author was religious, or libertine, depending on which "door" they selected (heaven or hell).**
 
 
 
