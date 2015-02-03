@@ -20,16 +20,15 @@ Form: A game that acts as an extension of the critical argument
 - How could the research question and scope be refined?
 **Any specific Chaucer texts you can focus on? The Knight's tale or Franklin's tale or Wife of Bath's tale**
 - How feasible is the argument given the time constraints at hand? How could the feasibility be increased? 
-** It seems feasible as long as the gaming program isn't too time consuming. It may also be difficult to integrate into an essay**
+**It seems feasible as long as the gaming program isn't too time consuming. It may also be difficult to integrate into an essay**
 - What are some of the technical challenges? Some of the research challenges? How significant are they? 
 **It might not be feasible to create an entirely new game, but it may be possible to alter an already existing game to make a critique**
 - How tight is the relationship between the research question and the choice of new media / computation? How could that relationship be tightened? Does the type of argument selected seem like a good fit? 
-** The game makes an argument. The game itself serves as an allegory of the passive becoming active **
+**The game makes an argument. The game itself serves as an allegory of the passive becoming active **
 - What, if anything, is missing from the recipe? What tools, research, data sources, and projects might be added? What other arguments or publications come to mind? (Use the internet to find some answers here?) 
-** Look at games that already engage with the passive. Some examples of games to look at, limbo, Agricola, Dear Esther. Check out text by Anna Antropy. Games involving haresting, resource management. A game like Oculus rift scary house might be worth thinking about. Within this game walking through scary house and exploring becomes the fun part. You don't have to acheive something, you could just explore. Interaction rather than forced action **
+**Look at games that already engage with the passive. Some examples of games to look at, limbo, Agricola, Dear Esther. Check out text by Anna Antropy. Games involving haresting, resource management. A game like Oculus rift scary house might be worth thinking about. Within this game walking through scary house and exploring becomes the fun part. You don't have to acheive something, you could just explore. Interaction rather than forced action **
 - What other comments or suggestions do you have?
-**Is there a specifical game that engages with nature that could be used/altered to make your argument? Maybe
-you could give players options within your game (avatars of lady bath, the knight, etc)**
+**Is there a specifical game that engages with nature that could be used/altered to make your argument?** **Maybe you could give players options within your game (avatars of lady bath, the knight, etc)**
 
 
 
