@@ -1,8 +1,6 @@
 # Katherine Anne (DHUM 450)
 
 
-## Test 3 February! 
-
 ## Log 3, 3 February, Revised Thought Piece
 
 My goal for this project would be to demonstrate how Thomas King's narrative in *The Inconvenient Indian* is actually an intentional procedure meant to trick white readers into confronting their own racial prejudices. King often begins chapters throughout the book with a claim that appeals to the historical Frontier Myth (Furniss) and it's contemporary version, the White-normative concept of civility (Coleman). After making this claim, the rest of the chapter goes on to list carefully documented events that undermine King's initial statement. If the reader agrees with King's initial premise, they will later be implicated in his postcolonial critique.
