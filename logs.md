@@ -4,34 +4,64 @@
 
 #### Primary Source
 
-King, Thomas. *The Inconvenient Indian.* Canada: Anchor Canada, 2013.
+**King, Thomas. *The Inconvenient Indian.* Canada: Anchor Canada, 2013. Print.**  
+
+In this unique piece of non-fiction, Thomas King uses his narrative style to retell North American history in order to challenges contemporary racist attitudes towards First Nations communities.   
+I will be attempting to argue that King regularly uses specific rhetorical procedures throughout this book in order to implicate readers in his critique of North American racism.
 
 #### Secondary Sources
 
-“A Conversation Between Shelagh Rogers and Thomas King.” *The Burden of History.*
-Vancouver: UBC Press, 1999. Print.  
+**“A Conversation Between Shelagh Rogers and Thomas King.” *The Burden of History.*
+Vancouver: UBC Press, 1999. Print.**  
 
-Coleman, Daniel. *White Civility: The Literary Project of English Canada.* Toronto, ON,
-CAN: University of Toronto Press, 2006. ProQuest ebrary. Web. 5 November
-2014.
+In this interview, included at the end of *the Inconvenient Indian*, Shelach Rogers asks King to elaborate about specific elements of the book. I am mainly concerned with what King has to say about the use of humour as an effective rhetorical device. 
 
-Furniss, Elizabeth. *The Burden of History.* Vancouver: UBC Press, 1999. Print.
+** Anthropy, Anne, Naomi Clark. *A Game Design Vocabulary: Exploring the Foundational Principles Behind Good Game Design.* Indiana: Addison-Wesley Professional, 2014. Web. **
+<http://proquest.safaribooksonline.com.ezproxy.library.uvic.ca/book/programming/game-programming/9780133155181>
+
+In their book on game design vocabulary, Anthropy and Clark flesh out key elements of a game in order to provide a framework for those interested in game design. I'm hoping this game will help me understand what steps I will need to follow in order to create, or modify a game for this project. 
+
+**Bannerji, Himani. “Geography Lessons: On Being an Insider/Outsider to the Canadian 
+Nation.” *Unhomely States.* Ed. Cynthia Sugars. Toronto: Broadview Press, 2004. Print.**
+
+In her essay, Bannerji outlines some of the policies, like multiculturalism, that have allowed the Canadian government to ignore "the Indian question". Bannerji's deconstruction of multiculturalism helps to clarify some of King's critiques about contemporary Canadian society.
+
+**Coleman, Daniel. *White Civility: The Literary Project of English Canada.* Toronto, ON,
+CAN: University of Toronto Press, 2006. ProQuest ebrary.** Web. <http://site.ebrary.com.ezproxy.library.uvic.ca/lib/uvic/detail.action?docID=10218812>
+
+In this book, Coleman outlines the way early Canadian literature solidified a white-normative image of the Canadian in the national conscious. I refer to Coleman's work in order to establish what historical worldview *The Inconvenient Indian* is working to rewrite. 
+
+**Furniss, Elizabeth. *The Burden of History.* Vancouver: UBC Press, 1999. Print.**
+
+In this book, anthropologist Elizabeth Furniss carefully documents her research on racial segregation in Williams Lake B.C. during the 1980's and 90's. Furniss also examines what factors contribute to the attitude of "common sense racism" that permeates the town.
+Furniss provides fairly contemporary examples of racism towards the First Nations community, which is the key problem King is writing to address. 
 
 
+**Goldie, Terry. “Semiotic Control: Native Peoples in Canadian Literature in English.”
+*Unhomely States.* Ed. Cynthia Sugars. Toronto: Broadview Press, 2004. Print.**
 
-Goldie, Terry. “Semiotic Control: Native Peoples in Canadian Literature in English.”
-Unhomely States. Ed. Cynthia Sugars. Toronto: Broadview Press, 2004.
+In this essay, Goldie uses deconstruction to explain how racism towards Native peoples has already been built into the English language. Goldie provides an outline to a key theoretical element innate in King's argument.
  
-Bannerji, Himani. “Geography Lessons: On Being an Insider/Outsider to the Canadian 
-Nation.” Unhomely States. Ed. Cynthia Sugars. Toronto: Broadview Press, 2004.
-Hutcheon, Linda. Splitting Images: Contemporary Canadian Ironies. Toronto: Oxford
-University Press, 1991.
-King, Thomas. Green Grass, Running Water. Toronto: Harper Collins Publishers, 1993.
-Print.
-King, Thomas. The Truth About Stories. Minnesota: University of Minnesota Press, 2008.
-Print.
-Wyile, Herb. “History, Theory, and the Contemporary Canadian Historical Novel”.
-Speculative Fictions.  Quebec City: McGill-Queen’s University Press, 2002.
+
+**Groening, Laura Smyth. "The Healing Aesthetic of Basil H. Johnston" *Listening to Old Women Speak* Montreal: McGill-Queen's University Press, 2004. Print.**
+
+This article highlights the importance of the way a story is told by critiquing how white critics responded to Johnston's humorous retelling of his residential school experience. Groaning argues that the storytelling form has the ability to rewrite history in a healing way. 
+
+**Hutcheon, Linda. *Splitting Images: Contemporary Canadian Ironies.* Toronto: Oxford
+University Press, 1991. Print.**
+
+In this book Hutcheon outlines the variety of ways irony has been used in Canadian literature. In her discussion of postcolonial literature, Hutcheon descibes how irony can be used by postcolonial writers in order to critique the dominant group. Irony is one of the key rhetorical tools King uses in *The Inconvenient Indian*.
+
+
+**King, Thomas. *The Truth About Stories.* Minnesota: University of Minnesota Press, 2008.
+Print.**
+*The Truth About Stories* argues that the way our stories influence the way we view the world. King's comparison of Native and Christian creation stories offers an ideal comparison for how our understanding of the world is shaped by the mythology we ascribe to. This same argument can be applied to the national mythology in both Canada and the States.  
+
+**Wyile, Herb. “History, Theory, and the Contemporary Canadian Historical Novel”.
+*Speculative Fictions.*  Quebec City: McGill-Queen’s University Press, 2002. Print.**
+This chapter of Wyile's book outlines how revisionist literature is helping to rewrite the public's understanding of history. Wyile's discussion demonstrates how historical events are always told through a subjective lense. 
+
+
 ## Log 3, 3 February, Revised Thought Piece
 
 My goal for this project would be to demonstrate how Thomas King's narrative in *The Inconvenient Indian* is actually an intentional procedure meant to trick white readers into confronting their own racial prejudices. King often begins chapters throughout the book with a claim that appeals to the historical Frontier Myth (Furniss) and it's contemporary version, the White-normative concept of civility (Coleman). After making this claim, the rest of the chapter goes on to list carefully documented events that undermine King's initial statement. If the reader agrees with King's initial premise, they will later be implicated in his postcolonial critique.
