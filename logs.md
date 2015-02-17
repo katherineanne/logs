@@ -16,7 +16,7 @@ Vancouver: UBC Press, 1999. Print.**
 
 In this interview, included at the end of *the Inconvenient Indian*, Shelach Rogers asks King to elaborate about specific elements of the book. I am mainly concerned with what King has to say about the use of humour as an effective rhetorical device. 
 
-** Anthropy, Anne, Naomi Clark. *A Game Design Vocabulary: Exploring the Foundational Principles Behind Good Game Design.* Indiana: Addison-Wesley Professional, 2014. Web. **
+**Anthropy, Anne, Naomi Clark.*A Game Design Vocabulary: Exploring the Foundational Principles Behind Good Game Design.* Indiana: Addison-Wesley Professional, 2014. Web.**
 <http://proquest.safaribooksonline.com.ezproxy.library.uvic.ca/book/programming/game-programming/9780133155181>
 
 In their book on game design vocabulary, Anthropy and Clark flesh out key elements of a game in order to provide a framework for those interested in game design. I'm hoping this game will help me understand what steps I will need to follow in order to create, or modify a game for this project. 
