@@ -1,6 +1,37 @@
 # Katherine Anne (DHUM 450)
 
+##Log 4, 17 February, Annotated Bibliography
 
+#### Primary Source
+
+King, Thomas. *The Inconvenient Indian.* Canada: Anchor Canada, 2013.
+
+#### Secondary Sources
+
+“A Conversation Between Shelagh Rogers and Thomas King.” *The Burden of History.*
+Vancouver: UBC Press, 1999. Print.  
+
+Coleman, Daniel. *White Civility: The Literary Project of English Canada.* Toronto, ON,
+CAN: University of Toronto Press, 2006. ProQuest ebrary. Web. 5 November
+2014.
+
+Furniss, Elizabeth. *The Burden of History.* Vancouver: UBC Press, 1999. Print.
+
+
+
+Goldie, Terry. “Semiotic Control: Native Peoples in Canadian Literature in English.”
+Unhomely States. Ed. Cynthia Sugars. Toronto: Broadview Press, 2004.
+ 
+Bannerji, Himani. “Geography Lessons: On Being an Insider/Outsider to the Canadian 
+Nation.” Unhomely States. Ed. Cynthia Sugars. Toronto: Broadview Press, 2004.
+Hutcheon, Linda. Splitting Images: Contemporary Canadian Ironies. Toronto: Oxford
+University Press, 1991.
+King, Thomas. Green Grass, Running Water. Toronto: Harper Collins Publishers, 1993.
+Print.
+King, Thomas. The Truth About Stories. Minnesota: University of Minnesota Press, 2008.
+Print.
+Wyile, Herb. “History, Theory, and the Contemporary Canadian Historical Novel”.
+Speculative Fictions.  Quebec City: McGill-Queen’s University Press, 2002.
 ## Log 3, 3 February, Revised Thought Piece
 
 My goal for this project would be to demonstrate how Thomas King's narrative in *The Inconvenient Indian* is actually an intentional procedure meant to trick white readers into confronting their own racial prejudices. King often begins chapters throughout the book with a claim that appeals to the historical Frontier Myth (Furniss) and it's contemporary version, the White-normative concept of civility (Coleman). After making this claim, the rest of the chapter goes on to list carefully documented events that undermine King's initial statement. If the reader agrees with King's initial premise, they will later be implicated in his postcolonial critique.
