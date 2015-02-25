@@ -1,5 +1,41 @@
 # Katherine Anne (DHUM 450)
 
+## 24 February, Feedback on Projects
+
+Ashley 
+
+- deforming a poem
+- make it more and less religious using voiyant - thrown some poems into voyant
+- top ten verbs and nouns from against and for religious poems
+- basic question - how do I justify these poems as religious or now?
+- should I just take the religious example, or should I have a process of using multiple religious poem 
+- need to add more poems to religious/libertine - or run a bible through voyant
+- top words - a lot of Wilmonts words seem religious without their context
+- taking poem out of context when you deform it
+- Corpus to work with the poem - have to have ten different versions 
+- swapping out words
+- you could make it a scale where you change more or less words, but use the same word bank for all variations
+
+Adam
+
+- abandon last plan because of html restrictions, need a server, etc, computer having trouble
+- fiddling with text analysis instead, socialized landscape and nonhuman in the social hands cape - ex. larger nodes in a social network
+- protovis - lots of interesting colour imagery and species- working from “Our Village” - series of sketches - compared to Jane Austen - textual sketches
+- distant reading 
+
+Danielle
+
+- running Eigen face of Wilde in illustrations
+- could be a great tool to put out there for others to use too
+
+Me 
+
+- At this point, I’m just planning to change place names. Any other suggestions?
+- while hunting, is there any extinct or endangered animals that you could point that out
+- establishing forgotten truths, to argue that is what King does in his book - highlighting historical erasure
+- maybe at the end could you suddenly provide new names and match what is what?
+- could you lose control over the player at the end (like on Mario at the end of a level) where you end up killing a bunch of first nations, levelling traditional lands, etc as a part of winning?
+
 ##Log 4, 17 February, Annotated Bibliography
 
 #### Primary Source
