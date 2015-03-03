@@ -1,5 +1,37 @@
 # Katherine Anne (DHUM 450)
 
+## 3 March, Abstract
+
+Reverse Erasure:
+Applying Thomas King’s Method of Deformance to the Oregon Trail
+
+Abstract:
+In The Inconvenient Indian Thomas King highlights the way First Nations groups have been erased from the mainstream version of North American history by rewriting that history from a “Native” perspective. In this project, I will argue that King’s narrative method involves deforming socially embedded narratives in order to create a less Eurocentric history of Canada and the States. I will make this argument by repeating his procedure in a different medium: video games. By deforming the classic video game, Oregon Trail, I aim to reveal the social procedure that inscribes settler narratives, and argue that these narratives can only be disrupted by a method of deformance, like that used by King. 
+Oregon Trail was created by three Minnesota student teachers in 1971, which makes it one of the earliest "edutainment" computer programs (Miller). Over the years, Oregon Trail has remained a valued educational tool. The social acceptance of tools like Oregon Trail implies that First Nations culture and history continues to be absent from North American historical narratives. I plan to deform this game by swapping the names of places along the trail with the names of First Nations communities who lived in those areas pre-settlement. This deformance may trigger nostalgia in the player, and possibly anger at the act of deformance, thereby demonstrating how nostalgia works to protects both history and vintage video games from critique. Simultaneously, it will repeat the kind of reverse erasure King methodically performs in The Inconvenient Indian.
+
+Works Cited
+Miller, Leslie. "25 years of learning on the 'Oregon Trail'." USA TODAY. (October 31, 1996 , Thursday, ): 888 words. LexisNexis Academic. Web. Date Accessed: 2015/03/02.
+http://www.lexisnexis.com.ezproxy.library.uvic.ca/lnacui2api/api/version1/getDocCui?oc=00240&hnsd=f&hgn=t&lni=3S3M-GMM0-00C6-D54M&hns=t&perma=true&hv=t&hl=t&csi=8213&secondRedirectIndicator=true 
+
+Scope:
+Since the borders of First Nations tribes along the Oregon Trail will not necessarily correspond to state borders, I will not be able to acknowledge every tribe along the game’s route. 
+
+List of American Tribes by State
+http://www.native-languages.org/states.htm
+
+Map from Oregon Trail 
+https://github.com/Tanner/Oregon-Trail/blob/development/screenshots/map_scene.png
+
+Concerns
+My main concern is with getting the game to run. I am also concerned about not being able to represent all the American tribes along the Oregon Trail. I would also like to rename key landmarks (ex. the rivers the characters need to ford), but suspect that may not be feasible in the time I have left.
+
+
+Journal:
+The Warren Undergraduate Review.
+http://thewarren.uvic.ca/ 
+As an “Open Concept” journal, the Warren might be open to publishing this project.
+
+
 ## 24 February, Feedback on Projects
 
 Ashley 
