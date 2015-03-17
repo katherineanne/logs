@@ -1,6 +1,5 @@
 # Katherine Anne (DHUM 450)
 
-# Katherine Anne (DHUM 450)
 
 ## Log 5, 17 March, Working Prototype
 
